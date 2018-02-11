@@ -8,9 +8,11 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Check out previous suggestions before opening a new one.
+- Make an individual pull request for each suggestion.
+- An entry should be form of `Title` - `Description`
+- Order entries alphabetically within each category.
+- Fill out the template in the description box.
 
 Thank you for your suggestions!
 

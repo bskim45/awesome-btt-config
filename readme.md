@@ -51,8 +51,7 @@
 
 ## Contribute
 
-Contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
-
+Contributions are always welcome! Please read the [Contribution Guidelines](.github/CONTRIBUTING.md) and [Code of Conduct](.github/CODE_OF_CONDUCT.md). first.
 
 ## License
 
