@@ -2,40 +2,39 @@
 
 > An curated list of awesome [BetterTouchTool](https://www.boastr.net/) configs.
 
-
 ## Contents
 
 - [TouchBar](#touchbar)
 - [Shortcuts](#shortcuts)
 - [Others](#others)
 
-
 ## TouchBar
 
 > Forget about function keys, keep your TouchBar sharp.
 
-### IDEs
+### Developers
 
 - [Android Studio](https://github.com/keyboardsurfer/btt-android-studio-config)
 - [Appcode](https://github.com/niggeulimann/btt-appcode-config)
 - [IntelliJ](https://github.com/kikoso/btt-intelliJ-config)
 - [PyCharm](https://github.com/benjefferies/bettertouchtool-pycharm)
+- [SourceTree](https://github.com/bskim45/btt-sourcetree-config) - BetterTouchTool TouchBar configuration for SourceTree
 
 ### Productivity
 
-- [Slack](https://github.com/kikoso/btt-slack-config)
 - [Google Hangout](https://github.com/jaapjan/touchbar-hangouts)
-
+- [Slack](https://github.com/kikoso/btt-slack-config)
 
 ### Cryptocurrency
 
-- [Crypto-Touchbar](https://github.com/Ryan-Gordon/Crypto-Touchbar) - A script for BetterTouchTool which allows you to track to price of different cryptocurrencies on the touchbar.
-- [Crypto-Touchbar-for-Mac](https://github.com/CryptoTerps/Crypto-Touchbar-for-Mac)
-- [touchbar-cryptocoins](https://github.com/lilythstern/touchbar-cryptocoins) - View BTC, LTC, ETH and NEO on your Macbook Touchbar using the BetterTouchTool.
-- [EthereumTouchBar](https://github.com/eduadiez/EthereumTouchBar) - Scripts to add to BetterTouchTool the coolest ethereum projects and be able to track the prices on your touchbar
 - [bettertouchtool-crypto](https://github.com/krunkosaurus/bettertouchtool-crypto) - Crypto stock market prices for your Macbook Pro touch bar!
+- [Crypto-Touchbar](https://github.com/Ryan-Gordon/Crypto-Touchbar) - A script for BetterTouchTool which allows you to track to price of different cryptocurrencies on the touchbar.
 - [Crypto-Touchbar-App](https://github.com/chrislennon/Crypto-Touchbar-App) - A web app to build Apple touch bar elements for crytpo currencies.
-- [TouchBar_Bitcoin_Florincoin](https://github.com/ValentinJesse/TouchBar_Bitcoin_Florincoin) - Bitcoin and Florincoin on the MacBook Pro TouchBar
+- [TouchBar_Bitcoin_Florincoin]
+- [Crypto-Touchbar-for-Mac](https://github.com/CryptoTerps/Crypto-Touchbar-for-Mac)
+- [EthereumTouchBar](https://github.com/eduadiez/EthereumTouchBar) - Scripts to add to BetterTouchTool the coolest ethereum projects and be able to track the prices on your touchbar
+(https://github.com/ValentinJesse/TouchBar_Bitcoin_Florincoin) - Bitcoin and Florincoin on the MacBook Pro TouchBar
+- [touchbar-cryptocoins](https://github.com/lilythstern/touchbar-cryptocoins) - View BTC, LTC, ETH and NEO on your Macbook Touchbar using the BetterTouchTool.
 
 ### Utility
 
